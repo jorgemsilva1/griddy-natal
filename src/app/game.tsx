@@ -15,8 +15,10 @@ const participants = [
   "Papá",
   "Mister Klopp",
   "Depay",
-  "Bruno",
+  "Lozinho",
   "Bala",
+  "Saguini",
+  "Zé Pikeno",
 ];
 
 export function Game() {
