@@ -6,19 +6,19 @@ import styled from "styled-components";
 
 // List of participants
 const participants = [
-  "Tiago Dias",
+  "Prezi",
   "Cigz J",
   "Boeck",
   "Arda",
   "Velho",
-  "Sousel",
   "Papá",
-  "Mister Klopp",
+  "Klopp",
   "Depay",
   "Lozinho",
   "Bala",
   "Saguini",
   "Zé Pikeno",
+  "Toodles",
 ];
 
 export function Game() {
