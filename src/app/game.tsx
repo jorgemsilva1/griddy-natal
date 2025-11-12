@@ -237,3 +237,20 @@ const BarContainer = styled.div`
     }
   }
 `;
+
+
+// [AI Fix] Aplicado automaticamente
+const Container = styled.main`
+  width: 100dvw;
+  height: 100dvh;
+  border: 20px solid black;
+  background: #cf5006;
+  display: grid;
+  place-items: center;
+
+  span {
+    display: inline-block;
+    border: 3px solid black;
+    padding: 12px 6px 6px;
+    &:not(:last-child) {
+      margin-bottom: 12px;
