@@ -6,7 +6,7 @@ export const Loading = () => {
   return (
     <Content className="loading">
       <BarComponent className="loading-bar" />
-      <p>A gerar os pares...</p>
+      <p>Generating pairs...</p>
     </Content>
   );
 };
